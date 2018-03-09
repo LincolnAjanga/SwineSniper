@@ -32,5 +32,5 @@ Visit link in description
 ## Notes
 None
 
-##License
+## License
 MIT
